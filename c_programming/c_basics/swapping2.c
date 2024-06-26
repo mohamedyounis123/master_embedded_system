@@ -19,6 +19,6 @@ int main(void){
 
 	      printf("\nAfter swapping, value of x = %.2f\n", x);
 	      printf("After swapping, value of y = %.2f", y);
-
+return 0;
 }
 
