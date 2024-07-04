@@ -1,15 +1,3 @@
-//#include <stdio.h>
-//#include<string.h>
-//int main()
-//{
-//	int r,c,i,a[10][10],trans[10][10];
-//	printf("Enter the number of data:\n");
-//	fflush(stdin);fflush(stdout);
-//	scanf("%d",&r);
-//
-//	return 0;
-//}
-//
 #include <stdio.h>
 
 int main()
